@@ -93,7 +93,9 @@ button {
 }
 
 
-3) let balance = 0;
+3) app.js
+
+let balance = 0;
 
 function updateBalance() {
     const balanceElement = document.getElementById('balance');
