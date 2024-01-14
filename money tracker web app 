@@ -1,3 +1,6 @@
+
+1) html structure for the money tracker web app 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +29,8 @@
     <script src="app.js"></script>
 </body>
 </html>
-Style. Css
+
+2) Style. Css
 
 body {
     font-family: 'Arial', sans-serif;
@@ -89,7 +93,7 @@ button {
 }
 
 
-let balance = 0;
+3) let balance = 0;
 
 function updateBalance() {
     const balanceElement = document.getElementById('balance');
